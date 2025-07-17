@@ -18,7 +18,3 @@
   <a href = "mailto:dimitri.calixtoog8@gmail.com"><img align="center" alt="PHP" height="90" width="80" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="linkedin.com/in/dimitri-calixto-arruda-martins-186b032b6/" target="_blank"><img align="center" alt="PHP" height="90" width="80" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-plain-wordmark.svg" target="_blank"></a> 
 </div>
-
-*{
-    background-color: rgb(121, 18, 18);
-}
