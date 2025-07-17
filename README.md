@@ -20,5 +20,7 @@
 </div>
 
 <style>
-  backgroundcolor: black; 
+  
+    background-color: rgb(121, 18, 18);
+
 </style>
